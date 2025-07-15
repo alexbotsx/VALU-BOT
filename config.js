@@ -16,14 +16,14 @@ global.isBaileysFail = true;
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['51906002517', '👑 Propietario 👑', true],
-  ['51906002517'],
-  ['51906002517'],
-  ['51906002517']
+  ['56971943258', '👑 Propietario 👑', true],
+  ['56971943258'],
+  ['56971943258'],
+  ['56971943258']
 ];
 
-global.suittag = ['51906002517'];
-global.prems = ['51906002517'];
+global.suittag = ['56971943258'];
+global.prems = ['56971943258'];
 
 // Base Rest Api
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
