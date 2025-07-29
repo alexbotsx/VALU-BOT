@@ -36,7 +36,7 @@
     "@sefinek/google-tts-api": "*",
     "@shineiichijo/marika": "^2.0.6",
     "@vitalets/google-translate-api": "^8.0.0",
-    "baileys": "ds6/meta",
+    "baileys": "git+ssh://git@github.com/BrunoSobrino/Baileys-Itsukichann.git",
     "acrcloud": "^1.4.0",
     "aptoide-scraper": "github:DIEGO-OFC/dv-aptoide-scraper",
     "awesome-phonenumber": "^2.68.0",
@@ -64,6 +64,7 @@
     "human-readable": "^0.2.1",
     "imagemaker.js": "^2.0.3",
     "jsdom": "^19.0.0",
+    "jimp": "*",
     "link-preview-js": "^3.0.0",
     "libphonenumber-js": "*",
     "lodash": "^4.17.21",
@@ -102,7 +103,8 @@
   "optionalDependencies": {
     "puppeteer": "*",
     "@xct007/frieren-scraper": "github:xct007/frieren-scraper",
-    "wa-sticker-formatter": "^4.3.2"
+    "wa-sticker-formatter": "^4.3.2",
+    "googlevideo": "*"
   },
   "devDependencies": {
     "eslint": "^8.45.0",
