@@ -10,7 +10,7 @@ ${oi}\n\n ── 𝑬𝑻𝑰𝑸𝑼𝑬𝑻𝑨\n`
   for (let mem of participants) {
   teks += `▌@${mem.id.split('@')[0]}\n`}
   teks += ` ֶָ◥ 𝑺𝒊𝒂 𝑩𝒐𝒕 ◤`
-  conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id) }, )
+  conn.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.jid) }, )
   }
   handler.help = ['tagall <mesaje>','invocar <mesaje>']
   handler.tags = ['group']
